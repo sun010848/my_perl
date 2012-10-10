@@ -1,4 +1,4 @@
-my_perl
+perl
 =======
 
 #!/usr/bin/perl
